@@ -36,7 +36,7 @@ Created while following the [Angela Yu Web Development Bootcamp](https://www.ude
 
 ## 📷 Screenshot
 
-![Drum Kit Screenshot](images/screenshot.png)
+![Drum Kit Screenshot](images/Screenshot.png)
 
 ---
 
